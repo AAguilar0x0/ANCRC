@@ -1,0 +1,1 @@
+Pyinstaller.exe --onefile --distpath bin --windowed src/ANCRC.py
